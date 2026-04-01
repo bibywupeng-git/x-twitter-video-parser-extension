@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "X(Twitter) Video Parser"
+  },
+  "appDesc": {
+    "message": "Une extension de navigateur simple pour analyser et gérer les URL de vidéos X(Twitter)."
+  }
+}

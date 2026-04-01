@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "X(Twitter)视频解析器"
+  },
+  "appDesc": {
+    "message": "一个简单的浏览器扩展，用于解析和处理X(Twitter)视频URL。"
+  }
+}

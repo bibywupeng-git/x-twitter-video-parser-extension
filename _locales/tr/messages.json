@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "X(Twitter) Video Parser"
+  },
+  "appDesc": {
+    "message": "X(Twitter) video URL'lerini ayrıştırmak ve işlemek için basit bir tarayıcı uzantısı."
+  }
+}

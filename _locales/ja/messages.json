@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "X(Twitter) Video Parser"
+  },
+  "appDesc": {
+    "message": "X(Twitter)動画URLの解析と処理のためのシンプルなブラウザ拡張機能。"
+  }
+}
